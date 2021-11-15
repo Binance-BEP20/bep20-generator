@@ -1,4 +1,4 @@
 User-Agent: *
 Allow:
 
-Sitemap: https://binance-bep20.github.io/bep20-generator/sitemap.xml
+Sitemap: https://bep20.github.io/bep20-generator/sitemap.xml
