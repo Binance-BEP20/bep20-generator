@@ -1,28 +1,15 @@
----
-component: Home
-title: BEP20 Token Generator | Create BEP20 Token for FREE
-description: Create your own BEP20 Smart Contract without coding. BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
-meta:
-    - property: twitter:title
-      content: BEP20 Token Generator | Create BEP20 Token for FREE
-    - property: og:title
-      content: BEP20 Token Generator | Create BEP20 Token for FREE
-    - property: twitter:description
-      content: Create your own BEP20 Smart Contract without coding. BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
-    - property: og:description
-      content: Create your own BEP20 Smart Contract without coding. BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
-    - property: og:url
-      content: https://bep20.github.io/bep20-generator/
----
+# BEP20 Token Generator
 
-# BEP20 Token Generator - DAPP
+[![CI](https://github.com/tokencenter/bep20-generator/workflows/CI/badge.svg?branch=master)](https://github.com/tokencenter/bep20-generator/actions/)
+[![Coverage Status](https://coveralls.io/repos/github/tokencenter/bep20-generator/badge.svg?branch=master)](https://coveralls.io/github/tokencenter/bep20-generator?branch=master)
+[![MIT licensed](https://img.shields.io/github/license/tokencenter/bep20-generator.svg)](https://github.com/tokencenter/bep20-generator/blob/master/LICENSE)
 
-Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token.
+The new Smart Contract Generator for BEP20 Token.
 
 ## Try it
 
-https://bep20.github.io/bep20-generator/
+[https://tokencenter.github.io/bep20-generator](https://tokencenter.github.io/bep20-generator)
 
 ## License
 
-Code released under the [MIT License](https://github.com/bep20/bep20-generator/blob/master/LICENSE).
+Code released under the [MIT License](https://github.com/tokencenter/bep20-generator/blob/master/LICENSE).
